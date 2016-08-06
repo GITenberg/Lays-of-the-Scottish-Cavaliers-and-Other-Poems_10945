@@ -1,0 +1,39 @@
+_repo: Lays-of-the-Scottish-Cavaliers-and-Other-Poems_10945
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aytoun, William Edmondstoune
+    aliases:
+    - Jones, T. Percy
+    - Aytoun, W. E. (William Edmondstoune)
+    - Aytoun, W. Edmondstoune (William Edmondstoune)
+    birthdate: 1813
+    deathdate: 1865
+    gutenberg_agent_id: '3764'
+    url: http://www.gutenberg.org/2009/agents/3764
+    wikipedia: http://en.wikipedia.org/wiki/William_Edmonstoune_Aytoun
+description: 'Lays of the Scottish cavaliers: Edinburgh after Flodden of Dundee. The
+  widow of Glencoe. The island of the scots. Chales Edward at Versailles. The old
+  Scottish cavalier.--Miscellaneous poems.--Appendix: Examination of the statements
+  in Mr. Macaulay''s History of England, regarding John Grahame of Claverhouse, viscount
+  of Dundee.'
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10945'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- History -- Poetry'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'Lays of the Scottish cavaliers: Edinburgh after Flodden. The execution
+  of Montrose. The heart of the Bruce. The burial march of Dundee. The widow of Glencoe.
+  The island of the Scots. Charles Edward at Versailles. The old Scottish cavalier.
+  Miscellaneous poems: Blind old Milton. Hermotimus. Oenone. The buried flower. The
+  old camp. Danube and the Euxine. The Scheik of Sinai. Epitaph of Constantine Kanaris.
+  The refusal of Charon.'
+title: Lays of the Scottish Cavaliers and Other Poems
+url: http://www.gutenberg.org/ebooks/10945
