@@ -1,5 +1,8 @@
 _repo: Lays-of-the-Scottish-Cavaliers-and-Other-Poems_10945
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aytoun, William Edmondstoune
@@ -17,6 +20,8 @@ description: 'Lays of the Scottish cavaliers: Edinburgh after Flodden of Dundee.
   Scottish cavalier.--Miscellaneous poems.--Appendix: Examination of the statements
   in Mr. Macaulay''s History of England, regarding John Grahame of Claverhouse, viscount
   of Dundee.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10945#Lays-of-the-Scottish-Cavaliers-and-Other-Poems
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
